@@ -6,10 +6,19 @@
     <description>Recent content on Sudhanshu Choudhary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Dec 2019 21:02:19 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 23:32:48 +0530</lastBuildDate>
     
 	<atom:link href="https://sdhanshu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swag</title>
+      <link>https://sdhanshu.github.io/zone/swag/</link>
+      <pubDate>Sun, 29 Dec 2019 23:32:48 +0530</pubDate>
+      
+      <guid>https://sdhanshu.github.io/zone/swag/</guid>
+      <description>This is all the Swag I have till date 1. Google Assistant T-shirt  2. Hacktoberfest T-shirt  3. Hacktoberfest Stickers  4. Most Precious - Google Home  5. Google Pin  6. Special - My Hero Academia Sticker  7. Some More Photos          </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +26,7 @@
       <pubDate>Wed, 18 Dec 2019 21:02:19 +0530</pubDate>
       
       <guid>https://sdhanshu.github.io/about/</guid>
-      <description>Hey, here&#39;s something about me: Introduction My name is Sudhanshu Choudhary. I am a thirteen years old Indian boy. And I am a programmer who&#39;s young. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to music, a lot! I reside in India, Delhi. I am an eighth grade student at Kendriya Vidyalaya.
+      <description>Hey, here&#39;s something about me: Introduction My name is Sudhanshu Choudhary. I am a thirteen years old Indian boy. And I am a young programmer. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to music, a lot! I reside in India, Delhi. I am an eighth grade student at Kendriya Vidyalaya.
 Achievements Developer of the action called Doctor Colors Questions on the Google Assistant app.</description>
     </item>
     
